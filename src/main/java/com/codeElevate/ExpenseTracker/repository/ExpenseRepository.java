@@ -1,7 +1,6 @@
 package com.codeElevate.ExpenseTracker.repository;
 
 import com.codeElevate.ExpenseTracker.entity.Expense;
-import com.codeElevate.ExpenseTracker.entity.Income;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 
